@@ -73,7 +73,7 @@ const OngkirForm: Component = () => {
 
             <div class="form-control">
               <label class="label">
-                <span class="label-text">Weight (grams)</span>
+                <span class="label-text">Weight (KG)</span>
               </label>
               <input
                 type="number"
